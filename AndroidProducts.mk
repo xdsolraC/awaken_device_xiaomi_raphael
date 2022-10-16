@@ -13,9 +13,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_raphael.mk
+    $(LOCAL_DIR)/awaken_raphael.mk
 
 COMMON_LUNCH_CHOICES := \
-    voltage_raphael-user \
-    voltage_raphael-userdebug \
-    voltage_raphael-eng
+    awaken_raphael-user \
+    awaken_raphael-userdebug \
+    awaken_raphael-eng
